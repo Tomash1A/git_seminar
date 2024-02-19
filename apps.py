@@ -1,2 +1,3 @@
-def plus(a,b,c,d):
-    return a + b + c + d;
+def plus(a,b):
+    return a+b+10;
+
